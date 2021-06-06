@@ -2,7 +2,7 @@ import {LodashComponents} from "../lodashFunction";
 import {deleteMovieById, searchById, searchByName} from "../whole-content";
 import html from "./card.html";
 import {appHistory} from "../history-app";
-import {AddNew, addNewMovie, plusRow} from "../add-new/add-new";
+import {newFilm, addNewMovie, plusRow} from "../add-new/add-new";
 
 
 const noResult = []
